@@ -1,5 +1,7 @@
 # MACHINE ELF — Hyperspace Descent
 
+![MACHINE ELF bullet field](docs/screenshot.jpg)
+
 A 3D **rail shooter** through DMT hyperspace, built with Three.js **WebGPU + TSL** —
 zero external assets. Every mesh is procedural, every texture is math, every sound is
 synthesized live with WebAudio.
